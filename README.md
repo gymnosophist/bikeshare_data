@@ -1,6 +1,7 @@
-# bikeshare_data
-Playing around with Capital Bikeshare Data
+# Austin Bikeshare data on Google BigQuery 
 
-Data available here --> https://www.capitalbikeshare.com/system-data
+## Purpose and scope 
 
-# Questions 
+The idea behind this project was to demonstrate Google's BQ API in a Python environment. I used publicly available data from the Austin bikeshare system as a sample dataset. 
+
+The project is documented in the Jupyter notebook included in this repo. 
